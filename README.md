@@ -1,11 +1,3 @@
-## Demo
-![Rope System Demo](Physics-Rope-System/RopeSystem.gif)
-
-
-
-
-
-
 
 
 # Runtime Rope System (Unity3D)
@@ -74,6 +66,9 @@ A `LineRenderer` updates every frame to visually connect the rope segments, prod
 | `lineRenderer` | Component that visually draws the rope |
 
 ---
+
+## Demo
+![Rope System Demo](Physics-Rope-System/RopeSystem.gif)
 
 ## Example Usage
 ```csharp
