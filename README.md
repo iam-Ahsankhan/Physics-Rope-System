@@ -1,5 +1,5 @@
 ## Demo
-![Demo](assets/demo.gif)
+![Demo](assets/RopeSystem.gif)
 
 # Runtime Rope System (Unity3D)
 
